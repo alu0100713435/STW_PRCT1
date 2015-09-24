@@ -28,6 +28,12 @@
 
 ### **Atom**
 
-<p>Por ultimo instalamos Atom como editor de textos</p>
+<p>Instalamos Atom como editor de textos</p>
 
 ![atom](images/atom.png "titulo")
+
+### **Pandoc**
+
+<p>Por ultimo instalamos Pandoc para traducir de marckdown a html</p>
+
+![pandoc](images/pandoc.png "titulo")
