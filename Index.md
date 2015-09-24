@@ -1,4 +1,4 @@
-# **SISTEMAS Y TECNOLOGÍAS WEB**
+# **SISTEMAS Y TECNOLOGIAS WEB**
 
 ### **Node.js**
 
