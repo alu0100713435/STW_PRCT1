@@ -14,7 +14,7 @@
 
 <p>Instalamos el framework Express desde la linea de comandos</p>
 
-![express](images/express.png "titulo")
+![express](images/expres.png "titulo")
 
 ### **Github**
 
