@@ -30,10 +30,10 @@
 
 <p>Instalamos Atom como editor de textos</p>
 
-![atom](images/atom.png "titulo")
+![atom](Images/atom.png "titulo")
 
 ### **Pandoc**
 
 <p>Por ultimo instalamos Pandoc para traducir de marckdown a html</p>
 
-![pandoc](images/pandoc.png "titulo")
+![pandoc](Images/pandoc.png "titulo")
